@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Create Free Jekyll Static Website on Github"
-date:   2016-01-30 01:22:48 -0800
+date:   2018-06-15 01:22:48 -0800
 categories: jekyll
 permalink: /create-free-jekyll-website-on-github/
 
